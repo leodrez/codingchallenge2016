@@ -13,7 +13,7 @@ can get invaluable real life experience.
 
 As part of the application process we post a coding challenge every year, and this year's applications will be accepted through February 15th, 2017. 
 
-You can read more about the CodeTrotters *Fellowship* at [http://www.codetrotters.com/fellowship](http://www.codetrotters.com/fellowship)
+You can read more about the Codetrotters *Fellowship* at [http://www.codetrotters.com/fellowship](http://www.codetrotters.com/fellowship)
 
 
 ##Participating in the Challenge
